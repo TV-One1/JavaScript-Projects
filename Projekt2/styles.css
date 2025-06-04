@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+}
+
+header {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
+
+#postContainer {
+    padding: 20px;
+}
+
+.post {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+#postForm {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px;
+}
+
+.comment {
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
